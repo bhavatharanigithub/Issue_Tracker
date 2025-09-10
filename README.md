@@ -43,7 +43,7 @@
   <img src="./intern/assets/issue-details.png" alt="Issue Details Screenshot" width="800">
 </p>
 
-### 4. Search & Filter Issues
+### 4. Backend Data JSON
 <p align="center">
   <img src="./intern/assets/search-filter.png" alt="Search & Filter Screenshot" width="800">
 </p>
