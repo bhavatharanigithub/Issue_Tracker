@@ -30,22 +30,22 @@
 
 ### 1. Dashboard / Issue List
 <p align="center">
-  <img src="./assets/dashboard.png" alt="Dashboard Screenshot" width="800">
+  <img src="./intern/assets/dashboard.png" alt="Dashboard Screenshot" width="800">
 </p>
 
 ### 2. Create New Issue
 <p align="center">
-  <img src="./assets/create-issue.png" alt="Create Issue Screenshot" width="800">
+  <img src="./intern/assets/create-issue.png" alt="Create Issue Screenshot" width="800">
 </p>
 
 ### 3. Issue Details / Edit Issue
 <p align="center">
-  <img src="./assets/issue-details.png" alt="Issue Details Screenshot" width="800">
+  <img src="./intern/assets/issue-details.png" alt="Issue Details Screenshot" width="800">
 </p>
 
 ### 4. Search & Filter Issues
 <p align="center">
-  <img src="./assets/search-filter.png" alt="Search & Filter Screenshot" width="800">
+  <img src="./intern/assets/search-filter.png" alt="Search & Filter Screenshot" width="800">
 </p>
 
 ---
